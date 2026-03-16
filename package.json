@@ -1,0 +1,1 @@
+{\n  \"name\": \"my-node-project\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A sample Node.js project\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo 'Error: no test specified' && exit 1\"\n  },\n  \"author\": \"surazleo222-crypto\",\n  \"license\": \"ISC\"\n}
